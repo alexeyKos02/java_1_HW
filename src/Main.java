@@ -7,6 +7,7 @@ public class Main {
             }
             if (i%3==0){
                 System.out.println("Fizz");
+                System.out.println("j");
                 continue;
             }
             if (i%5==0){
