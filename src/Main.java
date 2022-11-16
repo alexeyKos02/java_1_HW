@@ -28,6 +28,7 @@ public class Main {
               System.out.println("incorrect mark");
             }
           }
+
           break;
         case "/p":
           for (Student std : students) {
